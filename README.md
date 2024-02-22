@@ -5,10 +5,8 @@
 
 [Como configurar a Replicação de "VMs" Maquinas Virtuais usando o Hyper-V Core  | MasterMindTI](https://youtu.be/_OjuhFMcXfA)
 
-## Vamos para o Script ?
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/glpi-project/glpi/master/pics/logos/logo-GLPI-250-black.png" width="60" height="60"/>
-                
-
+## Vamos aos procedimentos ?
+            
 ####################################################################
 ## . Pré-Requisitos
 ####################################################################
