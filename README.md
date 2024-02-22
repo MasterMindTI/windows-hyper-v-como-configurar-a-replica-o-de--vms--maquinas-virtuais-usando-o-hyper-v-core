@@ -73,7 +73,7 @@ reg add “HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Virtualization\Repl
 
 ### Video Referencia:
 
-[Como configurar a Replicação de "VMs" Maquinas Virtuais usando o Hyper-V Core  | MasterMindTI]([https://youtu.be/_OjuhFMcXfA](https://youtu.be/wJ9jsvOMzuw))
+[Como configurar a Replicação de "VMs" Maquinas Virtuais usando o Hyper-V Core  | MasterMindTI](https://youtu.be/_OjuhFMcXfA)
 
 ### Qualquer dúvida, entre em contato.
 
