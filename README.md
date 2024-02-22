@@ -15,6 +15,7 @@
 - 2 Servidores Hyperv Core 2019 instalados
 - Acesso a internet para baixar o script e os pacotes
 - Acesso de Administrador
+- Baixar o arquivo [makecert.zip](https://github.com/MasterMindTI/windows-hyper-v-como-configurar-a-replica-o-de--vms--maquinas-virtuais-usando-o-hyper-v-core/blob/main/makecert.zip)
 
 ############################# PASSO 1 ################################
 ### CRIAR A UNIDADE CERTIFICADORA E AUTOASSINAR O CERTIFICADO RAIZ ###
