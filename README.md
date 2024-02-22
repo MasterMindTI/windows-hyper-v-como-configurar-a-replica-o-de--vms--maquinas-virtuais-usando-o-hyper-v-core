@@ -1,0 +1,1 @@
+# windows-hyper-v-como-configurar-a-replica-o-de--vms--maquinas-virtuais-usando-o-hyper-v-core
